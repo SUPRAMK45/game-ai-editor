@@ -1,0 +1,5 @@
+flask
+moviepy
+opencv-python
+numpy
+easyocr
